@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636369640789",
+    "project_id": "pokemon-quiz-4f51a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636369640789:android:82422bb04b73a3e7",
+        "android_client_info": {
+          "package_name": "com.burningflower.pokemonquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636369640789-cj2hp4pn6418nk4ioro7v6od2obqf50t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "636369640789-ecdl458ho8qbq766pio6929jq2f4u0p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.burningflower.pokemonquiz",
+            "certificate_hash": "6c7b277524ce60c99ad34ab39fafba79f7d01b81"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQZCN7XY5VVg5n4SsvVaY_yxPPr1LgJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

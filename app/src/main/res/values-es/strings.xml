@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Entrenador Principiante</item>
+        <item>Entrenador Promesa</item>
+        <item>Pokemaníaco</item>
+        <item>Entrenador Guay</item>
+        <item>Veterano</item>
+        <item>Aspirante</item>
+        <item>Líder de Gimnasio</item>
+        <item>Alto Mando</item>
+        <item>Campeón</item>
+        <item>Maestro Pokémon</item>
+    </string-array>
+
+    <string name="app_name">Pokemon Quiz</string>
+    <string name="ButtonDescription_PlaySound">Botón para reproducir sonido</string>
+    <string name="ButtonText_BackToMainMenu">Volver al menú principal</string>
+    <string name="ButtonText_BackToMenu">Volver al menú principal</string>
+    <string name="ButtonText_EraseData">Borrar estadísticas</string>
+    <string name="ButtonText_MoreGames">Más juegos</string>
+    <string name="ButtonText_Play">Jugar</string>
+    <string name="ImageDescription_QuestionImage">Imagen de la pregunta</string>
+    <string name="ButtonText_Stats">Estadísticas</string>
+    <string name="ImageDescription_Title">Título</string>
+    <string name="Text_Accuracity">Porcentaje de acierto:</string>
+    <string name="Text_ByNestors">Por Nestor\'s Imagination</string>
+    <string name="Text_CorrectAnswer">¡CORRECTO!</string>
+    <string name="Text_Exit">Salir</string>
+    <string name="Text_GameExit">¿Quieres salir de la partida actual?</string>
+    <string name="Text_KeepPlaying">Seguir en la partida</string>
+    <string name="Text_Note">Pokémon es una marca registrada de Game Freak y Nintendo. Éste es un juego no oficial creado por un fan para fans de Pokémon sin ningún ánimo de lucro.</string>
+    <string name="Text_NumCorrect">Número de preguntas acertadas:</string>
+    <string name="Text_PlayedGames">Número de partidas acabadas:</string>
+    <string name="Text_WrongAnswer">¡INCORRECTO!</string>
+    <string name="Text_YourScore">PUNTUACIÓN:</string>
+    <string name="pokemonquiz">PokemonQuiz</string>
+    <string name="onlineBattle">Combate online</string>
+    <string name="quickGame">Partida rápida</string>
+    <string name="scoreTextView">Puntuación: 999999</string>
+    <string name="titleTextView">Maestro Pokémon</string>
+</resources>
